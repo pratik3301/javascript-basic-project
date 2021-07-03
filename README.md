@@ -1,2 +1,2 @@
 # javascript-basic-project
-This repo contain basic javascript projects. learned from youtube :-)
+This repo contains basic javascript projects. learned from youtube :-)
